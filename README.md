@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=200&section=header&text=Gihun%20Gong&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=60&descSize=20&animation=fadeIn"/>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Crafting+clean+%26+modern+UIs;Always+learning%2C+always+building;Turning+%E2%98%95+into+beautiful+interfaces)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,9 +17,8 @@
 const a1rhun = {
   role: "Frontend Developer",
   focus: ["UI/UX", "Performance", "Clean Code"],
-  currentlyLearning: ["Next.js", "TypeScript", "Web Animation"],
-  askMeAbout: ["React", "CSS", "JavaScript"],
-  funFact: "I turn ☕ into beautiful UIs"
+  currentlyLearning: ["Next.js", "Web Animation"],
+  askMeAbout: ["React", "CSS", "TypeScript", "JavaScript"],
 };
 ```
 
@@ -66,10 +62,9 @@ const a1rhun = {
 
 | Period | Role | Description |
 |--------|------|-------------|
-| 2024.01 – Present | Frontend Developer | - |
-| 2023.01 – 2023.12 | Frontend Developer Intern | - |
+| 2026.01 – Present | Frontend Developer Intern | Incross |
+| 2025.07 – Present | Web/App General Member | GDGoC in Dongguk Univ. |
 
-> ✏️ *위 항목은 실제 경력으로 수정해 주세요!*
 
 ---
 
