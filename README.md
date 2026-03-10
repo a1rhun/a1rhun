@@ -1,6 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+a1rhun+%F0%9F%91%8B;Frontend+Developer;Crafting+clean+%26+modern+UIs;Always+learning%2C+always+building)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=200&section=header&text=Gihun%20Gong&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=60&descSize=20&animation=fadeIn"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Crafting+clean+%26+modern+UIs;Always+learning%2C+always+building;Turning+%E2%98%95+into+beautiful+interfaces)](https://git.io/typing-svg)
 
 <br/>
 
