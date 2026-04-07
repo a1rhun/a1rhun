@@ -100,6 +100,8 @@ const a1rhun = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-a1rhun-181717?style=for-the-badge&logo=github)](https://github.com/a1rhun)
+[![Email](https://img.shields.io/badge/Email-gongja124@dgu.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gongja124@dgu.ac.kr)
+
 
 </div>
 
