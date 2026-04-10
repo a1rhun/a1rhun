@@ -18,6 +18,10 @@
 |--------|------|-------------|
 | 2026.01 – Present | Frontend Developer Intern | Incross |
 | 2025.07 – Present | Web/App General Member | GDGoC in Dongguk Univ. |
+| 2025.07 - 2025.08 | Software Developer Intern | KEPCO NCS |
+| 2025.07 - 2025.08 | Frontend Developer | Youth Startup Team |
+| 2025.03 – 2026.02 | Member of Big Data Track | Farm System in Dongguk Univ. |
+| 2024.03 - 2024.12 | Android Developer | Youth Startup Team |
 
 
 ---
