@@ -9,8 +9,18 @@
 
 </div>
 
+
 ---
 
+## 💼 Experiences
+
+| Period | Role | Description |
+|--------|------|-------------|
+| 2026.01 – Present | Frontend Developer Intern | Incross |
+| 2025.07 – Present | Web/App General Member | GDGoC in Dongguk Univ. |
+
+
+---
 ## 👨‍💻 About Me
 
 ```javascript
@@ -58,15 +68,7 @@ const a1rhun = {
 
 ---
 
-## 💼 Experiences
 
-| Period | Role | Description |
-|--------|------|-------------|
-| 2026.01 – Present | Frontend Developer Intern | Incross |
-| 2025.07 – Present | Web/App General Member | GDGoC in Dongguk Univ. |
-
-
----
 
 ## 📊 GitHub Stats
 
