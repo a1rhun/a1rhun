@@ -8,6 +8,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=a1rhun&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
+![GitHub stats](https://vercel.app)
 
 
 ---
